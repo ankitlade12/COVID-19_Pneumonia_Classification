@@ -1,12 +1,12 @@
 # COVID-19_Pneumonia_Classification #
 
-* To detect Coronavirus infection using X-ray report of the lungs.
+* Detecting Coronavirus infection using X-ray images of lungs.
 
-* Classify COVID-19 based on X-ray images using Deep Learning.
+* Classifying COVID-19 based on X-ray images using Deep Learning.
 
-* Build and train a Convolutional Neural Network (CNN).
+* Building and Training a Convolutional Neural Network (CNN).
 
-* Make a prediction on new data using CNN Model.
+* Making a prediction on new data using CNN Model.
 
 ## Flowchart ##
 
