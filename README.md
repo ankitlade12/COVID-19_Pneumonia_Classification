@@ -1,6 +1,6 @@
 # COVID-19_Pneumonia_Classification #
 
-#Aim:#
+##Aim:##
 
 * To detect Coronavirus infection using the Xray Report of the lungs of Patients.
 
