@@ -2,7 +2,7 @@
 
 * To detect Coronavirus infection using X-ray report of the lungs.
 
-* Classify COVID 19 based on X-ray images using Deep Learning.
+* Classify COVID-19 based on X-ray images using Deep Learning.
 
 * Build and train a Convolutional Neural Network (CNN).
 
