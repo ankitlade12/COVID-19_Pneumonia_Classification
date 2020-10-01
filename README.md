@@ -1,6 +1,6 @@
 # COVID-19_Pneumonia_Classification #
 
-* To detect Coronavirus infection using the X-ray report of the lungs.
+* To detect Coronavirus infection using X-ray report of the lungs.
 
 * Classify COVID 19 based on X-ray images using Deep Learning.
 
